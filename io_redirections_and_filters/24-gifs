@@ -1,2 +1,2 @@
 #/bin/bash
-find . -type d -name "*.git" -printf "%f\"
+find . -type d -name "*.git" 
